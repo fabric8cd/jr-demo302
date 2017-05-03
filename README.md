@@ -9,6 +9,9 @@ _http://hostname:port/api/greeting_ and returns a JSON response containing the _
 }
 ```
 
+
+
+
 # Prerequisites
 
 To get started with this quickstart you'll need the following prerequisites:
